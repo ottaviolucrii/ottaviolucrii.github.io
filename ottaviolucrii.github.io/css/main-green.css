@@ -185,7 +185,7 @@ textarea.form-control, textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #2eca7f;
+  background: #4b2eca;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -673,7 +673,7 @@ body > footer .copyrights {
 }
 
 .site-main-menu li {
-  display: inline-block;
+  display: block;
   float: left;
   position: relative;
   padding: 0;

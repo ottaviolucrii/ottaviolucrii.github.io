@@ -982,7 +982,7 @@ body > footer .copyrights {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color: #fff;
-  border-left: 2px solid #2eca7f;
+  border-left: 2px solid #3814d8;
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);
 }
 
@@ -1004,7 +1004,7 @@ body > footer .copyrights {
   height: 12px;
   top: 20px;
   left: -29px;
-  border: 2px solid #2eca7f;
+  border: 2px solid #3814d8;
   z-index: 2;
 }
 
@@ -1012,7 +1012,7 @@ body > footer .copyrights {
   content: '';
   display: inline-block;
   position: absolute;
-  background-color: #2eca7f;
+  background-color: #3814d8;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -1032,7 +1032,7 @@ body > footer .copyrights {
   display: inline-block;
   font-size: 12px;
   line-height: 1.2em;
-  color: #2eca7f;
+  color: #3814d8;
   margin-bottom: 8px;
 }
 
@@ -1073,7 +1073,7 @@ body > footer .copyrights {
 }
 
 .skill-percentage {
-  background-color: #2eca7f;
+  background-color: #3814d8;
   height: 10px;
   padding: 0;
 }
@@ -1180,7 +1180,7 @@ body > footer .copyrights {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #3814d8;
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -1255,7 +1255,7 @@ body > footer .copyrights {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #2eca7f;
+  color: #3814d8;
 }
 /* /Fun Facts */
 
@@ -1303,7 +1303,7 @@ body > footer .copyrights {
   padding: 2.2em 1.2em 1.5em;
   font-style: italic;
   border: 1px solid #e0e0e0;
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid #3814d8;
   width: 100%;
   position: relative;
   margin: 0;
@@ -1387,7 +1387,7 @@ body > footer .copyrights {
   content: '';
   height: 2px;
   margin-top: 0;
-  background-color: #2eca7f;
+  background-color: #3814d8;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1634,7 +1634,7 @@ body > footer .copyrights {
 
 .blog-card .post-date span {
   display: block;
-  color: #2eca7f;
+  color: #3814d8;
   line-height: 1;
   font-size: 12px;
   margin: 0;
@@ -1775,7 +1775,7 @@ body > footer .copyrights {
 .contact-info-block i {
   position: relative;
   font-size: 18px;
-  color: #2eca7f;
+  color: #3814d8;
   text-align: center;
   line-height: 36px;
 }
@@ -1997,7 +1997,7 @@ body > footer .copyrights {
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  color: #2eca7f;
+  color: #3814d8;
 }
 
 .ajax-page-nav > div.nav-item a i {
@@ -2042,7 +2042,7 @@ body > footer .copyrights {
 }
 
 .project-general-info .fa {
-  color: #2eca7f;
+  color: #3814d8;
   margin-right: 5px;
 }
 
@@ -2069,7 +2069,7 @@ body > footer .copyrights {
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #3814d8;
   border-color: transparent;
 }
 
@@ -2155,7 +2155,7 @@ body > footer .copyrights {
 
 blockquote {
   margin: 20px 0;
-  border-left: 3px solid #2eca7f;
+  border-left: 3px solid #3814d8;
   font-style: italic;
 }
 
@@ -2291,7 +2291,7 @@ blockquote footer, blockquote small, blockquote .small {
     top: 50px;
     z-index: 1001;
     overflow: auto;
-    background-color: #2eca7f;
+    background-color: #3814d8;
     -webkit-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
@@ -2326,7 +2326,7 @@ blockquote footer, blockquote small, blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #2eca7f;
+    background-color: #3814d8;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);

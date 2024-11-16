@@ -1058,7 +1058,7 @@ body > footer .copyrights {
   font-size: 0.8em;
   line-height: 1.1em;
   position: relative; 
-  margin: 0 0 5px;
+  margin: 20 0 10px;
 }
 
 .skill-container {
@@ -1091,11 +1091,11 @@ body > footer .copyrights {
 
 /*Skill 1*/
 .skill-percentage.skill-1 {
-  width: 88%;
+  width: 80%;
 }
 /*Skill 2*/
 .skill-percentage.skill-2 {
-  width: 75%;
+  width: 70%;
 }
 /*Skill 3*/
 .skill-percentage.skill-3 {
@@ -1103,19 +1103,19 @@ body > footer .copyrights {
 }
 /*Skill 4*/
 .skill-percentage.skill-4 {
-  width: 95%;
+  width: 30%;
 }
 /*Skill 5*/
 .skill-percentage.skill-5 {
-  width: 75%;
+  width: 70%;
 }
 /*Skill 6*/
 .skill-percentage.skill-6 {
-  width: 92%;
+  width: 40%;
 }
 /*Skill 7*/
 .skill-percentage.skill-7 {
-  width: 60%;
+  width: 20%;
 }
 /*Skill 8*/
 .skill-percentage.skill-8 {

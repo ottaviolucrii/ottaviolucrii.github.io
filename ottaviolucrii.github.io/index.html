@@ -408,8 +408,24 @@
     <!-- /Main Content -->
   </div>
   <footer>
-    <div class="copyrights">&copy; Geek University</div>
+    <div class="version-switcher">
+      <button onclick="switchVersion('v1.0')">Versão 1.0</button>
+      <button onclick="switchVersion('v1.1')">Versão 1.1</button>
+    </div>
+    <div class="copyrights">&copy; Ottavio Lucri</div>
   </footer>
+  
+
+  <script>
+    function switchVersion(version) {
+      // Redireciona para a URL específica da versão
+      if (version === 'v1.0') {
+        window.location.href = 'https://github.com/ottaviolucrii/ottaviolucrii.github.io/releases/tag/v1.0';
+      } else if (version === 'v1.1') {
+        window.location.href = 'https://github.com/ottaviolucrii/ottaviolucrii.github.io/releases/tag/v1.1';
+      }
+    }
+  </script>
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/pages-switcher.js"></script>
   <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>

@@ -388,7 +388,7 @@ footer {
 }
 
 .version-switcher button {
-  background-color: #2eca7f; /* Cor azul */
+  background-color: #26127e; /* Cor azul */
   color: white;
   border: none;
   padding: 8px 15px;
@@ -399,7 +399,7 @@ footer {
 }
 
 .version-switcher button:hover {
-  background-color: #2eca7f;
+  background-color: #26127e;
 }
 /* / copyrights block */
 /* / Footer */
